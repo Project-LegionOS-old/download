@@ -18,6 +18,26 @@
             <span style="width: 100%">{{ build.filename }}</span>
             <i class="material-icons">arrow_drop_down</i>
           </div>
+                 <div class="container" style="width:70%">
+      <center>
+        <script
+          type="application/javascript"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        ></script>
+        <ins
+          class="adsbygoogle"
+          style="display:block; text-align:center;"
+          data-ad-layout="in-article"
+          data-ad-format="fluid"
+          data-ad-client="ca-pub-1677966849218512"
+          data-ad-slot="6338943726"
+        ></ins>
+        <script type="application/javascript">
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </center>
+    </div>
           <div class="collapsible-body">
             <p class="label">details</p>
             <div class="buildinfo">
