@@ -8,6 +8,25 @@
       Website developed by
       <a href="https://github.com/andersonmendess">andersonmendess</a>
     </div>
+        <div class="container" style="width:100%">
+      <center>
+        <script
+          type="application/javascript"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        ></script>
+        <ins
+          class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-1677966849218512"
+     data-ad-slot="9256395884"></ins>
+        <script type="application/javascript">
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </center>
+    </div>
   </div>
 </template>
 <script>

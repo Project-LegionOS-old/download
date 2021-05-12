@@ -18,7 +18,6 @@
             <span style="width: 100%">{{ build.filename }}</span>
             <i class="material-icons">arrow_drop_down</i>
           </div>
-
           <div class="collapsible-body">
             <p class="label">details</p>
             <div class="buildinfo">
