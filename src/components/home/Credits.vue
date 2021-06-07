@@ -27,6 +27,19 @@
         </script>
       </center>
     </div>
+    <div id="adBottom">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- download bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1677966849218512"
+     data-ad-slot="1730167184"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
   </div>
 </template>
 <script>
