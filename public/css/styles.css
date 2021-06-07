@@ -526,6 +526,18 @@ span {
 .color_animation {
   animation: animate 6s linear infinite;
 }
+
+@media only screen and (min-width: 310px) and (max-width:500px) {
+#adBottom {
+left:0;
+position: fixed;
+text-align:center;
+bottom: 0px;
+width:100%;
+z-index:999;
+}
+}
+
 @keyframes animate {
   0% {
     filter: hue-rotate(0deg);
