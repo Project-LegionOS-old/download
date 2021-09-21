@@ -26,7 +26,7 @@ const fetchDevices = async () => {
 
 const fetchBuilds = async (codename, variant) => {
   try {
-    const res = await request(`${baseURL}/OTA/11/${codename}/official/${variant}.json`);
+    const res = await request(`${baseURL}/OTA/11/${codename}/official/web/${variant}.json`);
 
     const promises = res.response.map(async (build) => {
       const downloads = await fetchDownloadsCount(build.filename, codename);
